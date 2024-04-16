@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Welcome%20to%20BaekGwa's%20GitHub&fontAlign=50)
+
 <!--
 **KangBaekGwa/KangBaekGwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
