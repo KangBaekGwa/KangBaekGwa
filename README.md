@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangBaekGwa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KangBaekGwa&bg_color=000000&color=973090&line=b12b2b&point=662e2e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🛠 기술 스택
 ---
 - **Backend**
