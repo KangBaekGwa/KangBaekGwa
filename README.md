@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KangBaekGwa&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+### [Baekgwa's blog 바로가기](https://blog.baekgwa.site/)
+### [ksu9801@gmail.com](mailto:ksu9801@gmail.com)
