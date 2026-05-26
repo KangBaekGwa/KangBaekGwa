@@ -4,7 +4,7 @@ I'm **Baekgwa** — a Java-based full stack developer. backend, frontend, whatev
 
 ---
 
-**🔗 Blog** → [blog.baekgwa.site](https://blog.baekgwa.site/)  
+**🔗 Blog** → [blog.baekgwa.com](https://blog.baekgwa.com/)  
 **📬 Contact** → [dev@baekgwa.com](mailto:dev@baekgwa.com)
 
 ---
