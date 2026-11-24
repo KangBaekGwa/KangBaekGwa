@@ -13,4 +13,6 @@ I'm **Baekgwa** — a Java-based full stack developer. backend, frontend, whatev
 
 | Project | Link |
 |---------|------|
-| Baekgwa Blog | [git.baekgwa.com/baekgwa-blog](https://git.baekgwa.com/baekgwa-blog) |
+| Baekgwa Blog | [🔗](https://git.baekgwa.com/baekgwa-blog) |
+| 수호테크 업무자동화 개발건(외주) | [🔗](https://git.baekgwa.com/suhotech) |
+| 백과봇 (카카오톡) | [🔗](https://git.baekgwa.com/kakaobot) |
